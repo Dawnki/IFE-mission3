@@ -1,0 +1,57 @@
+.contains{
+	padding: 20px;
+	background: #eee;
+	border: 1px solid #999;
+	overflow: auto;
+}
+
+.logo{
+	width: 180px;
+	float: left;
+	background: #969696;
+	padding: 10px;
+	margin: 5px;
+}
+
+.logo img{
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+
+.logo p{
+	margin-left: 80px;
+	word-break: break-all;  /*防止文字溢出*/
+}
+
+.desc{
+	padding: 10px;
+	margin-left: 225px;
+	margin-right: 145px;
+}
+
+.desc p{
+	word-break: break-all;
+}
+
+.person{
+	padding: 20px;
+	width: 80px;
+	margin: 5px;
+	float: right;
+}
+
+.person ul{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.person li{
+	list-style-type: none;
+}
+
+.person img{
+	width: 80px;
+	height: 80px;
+}
